@@ -1,6 +1,6 @@
-﻿# Plants vs. Zombies (HTML, CSS, JavaScript)
+# Plants vs. Zombies (HTML, CSS, JavaScript)
 
-A lightweight, browser-based implementation of the classic lane defense game, Plants vs. Zombies, built entirely with HTML, CSS, and vanilla JavaScript. No frameworks or external dependencies required — just open in your browser and protect your brains\!
+A lightweight, browser-based implementation of the classic lane defense game, Plants vs. Zombies, built entirely with HTML, CSS, and vanilla JavaScript. No frameworks or external dependencies required — just open in your browser and protect your brains!
 
 ## 🌱 Features
 
@@ -10,6 +10,10 @@ A lightweight, browser-based implementation of the classic lane defense game, Pl
   * An arsenal of plants with special powers 💥
   * Responsive design for desktop and mobile 📱
   * Iconic cartoon graphics 🎨
+
+## 🎮 Online Demo
+
+**[Play Now → https://plantsvszombiesjs.github.io](https://plantsvszombiesjs.github.io)**
 
 ## 🏡 Getting Started
 
@@ -29,11 +33,7 @@ A lightweight, browser-based implementation of the classic lane defense game, Pl
 
 3.  Open `index.html` in your browser.
 
-That’s it\! No build tools or server required.
-
-## Online Demo
-
-You can also play directly by opening the project in a static hosting service (e.g., GitHub Pages, Netlify).
+That's it! No build tools or server required.
 
 ## 📁 Project Structure
 
